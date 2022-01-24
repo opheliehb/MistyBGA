@@ -134,8 +134,7 @@ $gameinfos = array(
 'presentation' => array(
     totranslate("It’s raining outside. The windows are misty, but covered in drawings."),
     totranslate("Players receive cards with different designs and keep only one for their window. They then give the other cards to their neighbor."),
-    totranslate("After 12 turns, each player has a magnificent window filled with drawings that will come to life in front of them: the balloons float up, the vehicles drive out and the leaves fall down."),
-    totranslate("Only some of the drawings can earn you points. The most beautiful and valuable drawing is the flower, but watch out for the monster who keeps on trying to eat it."),
+    totranslate("After 12 turns, each player has a magnificent window filled with drawings that will come to life in front of them: the balloons float up, the vehicles drive out and the leaves fall down. Only some of the drawings can earn you points. The most beautiful and valuable drawing is the flower, but watch out for the monster who keeps on trying to eat it."),
     totranslate("Misty is a tactical draft game, in which to win, one must anticipate where the cards will move and watch the other players’ windows."),
 ),
 
