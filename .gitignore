@@ -1,0 +1,8 @@
+bgaproject.yml
+build/*
+dist/*
+vendor/*
+composer*
+img/*
+.DS_Store
+buildAndWatch.ps1
